@@ -3,7 +3,7 @@ How to install
 1. open terminal armbiannya.
 2. type perintah dibawah 
 ```
-wget -L https://raw.githubusercontent.com/iwanmartinsetiawan/verus-auto-armbian/main/miner.sh
+wget -L https://raw.githubusercontent.com/psky/verus-auto-armbian/main/miner.sh
 ```
 4. edit file miner.sh yang telah didownload sebelumnya.
 ```
